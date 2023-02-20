@@ -60,7 +60,7 @@ Content-Type: application/json
 
 ###
 
-put http://localhost:3009/todos/1
+put http://localhost:3009/todos/2
 Content-Type: application/json
 
 { "category": "LEARNING" }
